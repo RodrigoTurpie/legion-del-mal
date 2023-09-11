@@ -1,0 +1,4 @@
+# Acerca deAcerca de
+Ingeniero de Ejecución Electrónico, con más de 20 años de experiencia en gestión comercial de cuentas claves, con un amplio dominio en estrategias de liderazgo y manejo de conflictos, experta en reconocimiento de procesos de venta y desarrollo de planificaciones de trabajo, alineadas con la estrategia corporativa, que maximiza los resultados comerciales incorporando técnicas de venta, habilidades comerciales, competencias y búsqueda de nuevos talentos .
+
+En los últimos 8 años, lideré un equipo de trabajo que brinda servicio y soporte en el diseño, dirección, ejecución y supervisión de todos los procedimientos propios de la proyección de alumnos, programación académica e inscripción de asignaturas, ademas de apoyo continuo a los directores de carrera en una Universidad.
