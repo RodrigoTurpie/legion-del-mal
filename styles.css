@@ -20,4 +20,8 @@
     padding:20px;
     text-align: justify;
     font-family: 'Courier New', Courier, monospace;
+    color:blue
+}
+.subtitulo{
+    color:rgb(109, 42, 4)
 }
